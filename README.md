@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pravin-star
 - 👀 I’m interested in learning technologies
-- 🌱 I’m currently learning FullStackDevelopment
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning Python
 - 📫 How to reach me  LinkedInProfile: https://www.linkedin.com/in/pravin99
  
 <!---
