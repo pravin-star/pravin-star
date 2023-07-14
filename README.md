@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pravin-star
 - 👀 I’m interested in learning technologies
-- 🌱 I’m currently learning Python
+- 🌱 I’m learning Python
 - 📫 How to reach me  LinkedInProfile: https://www.linkedin.com/in/pravin99
  
 <!---
